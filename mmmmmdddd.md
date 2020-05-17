@@ -4,7 +4,7 @@
 ####illumina1.1.1.1
 ![Image]()
 ####illumina1.1.1.2
-[Link](http://www.baidu.com)
+[Baidu Link](http://www.baidu.com)
 1.**Try Bold** >
 2.*Try Italic* >
 3.***Try Italic and Bold*** >
@@ -12,4 +12,4 @@
 * List2
 * List3
 ---
-'Try Inline code'
+'<Try Inline code>'
