@@ -1,4 +1,5 @@
 # illumina  
+===
 ## illumina1.1  
 ### illumina1.1.1  
 #### illumina1.1.1.1  
@@ -14,4 +15,6 @@
 * List2
 * List3
 ---
-'<Try Inline code>'
+尝试换行<br>
+\<br>
+  前面加俩tab的效果
